@@ -1,9 +1,4 @@
-#include<bits/stdc++.h>
-using namespace std;
+'''
+  The topics that will be covered in this file are :
 
-int main(){
-  cout<<"Hello World<<endl;
-  return 0;
-}
-
-d
+'''
